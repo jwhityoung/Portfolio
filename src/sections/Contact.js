@@ -4,13 +4,13 @@ import React from "react";
 const styles = {
     titleStyle: {
         textAlign: "left",
-        color: "#F1FAEE"
+        color: "#F5F5F5"
 
     },
     cardStyle: {
         marginRight: "15px",
         marginBottom: "50px",
-        backgroundColor: "#F1FAEE"
+        backgroundColor: "#F5F5F5"
     }
 }
 
@@ -23,7 +23,7 @@ function Contact() {
                     </div>
                     <div className="col-md-8 mb-10 pt-4" >
                         <h2>Contact Me</h2>
-                        <hr style={{borderColor: "#F1FAEE"}}/>
+                        <hr style={{borderColor: "#F5F5F5"}}/>
                     </div>
                 </div>
                

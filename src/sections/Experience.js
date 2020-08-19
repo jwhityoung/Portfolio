@@ -78,7 +78,7 @@ function Experience() {
                     <div className="card col-md-8 border-0" style={{backgroundColor:"#DFE0E0"}}>
                         <div class="card-body"  >
                             <h4 class="place mb-1">The University of Texas at Austin</h4>
-                            <h6 class="title">Full-Stack Web Development Certification<span style={{float: "right"}}>2020</span></h6>
+                            <h6 class="title">Full-Stack Web Development Certificate<span style={{float: "right"}}>2020</span></h6>
   
                         </div>
 

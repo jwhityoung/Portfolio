@@ -10,7 +10,7 @@ const styles = {
     titleStyle: {
         textAlign: "left",
         marginBottom: "30px",
-        color: "#F1FAEE"
+        color: "#F5F5F5"
 
     },
     cardStyle: {
@@ -34,7 +34,7 @@ function Projects() {
                 </div>
                 <div className="col-md-8 mb-10 pt-4" style={styles.titleStyle}>
                     <h2>Projects</h2>
-                    <hr style={{borderColor: "#F1FAEE"}} />
+                    <hr style={{borderColor: "#F5F5F5"}} />
                 </div>
             </div>
             <div className="row">
