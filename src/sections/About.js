@@ -4,8 +4,6 @@ import MainPhoto from "../assets/IMG_4591.jpeg";
 const styles = {
     titleStyle: {
       textAlign: "left",
-      borderBottomColor: 'black',
-    borderBottomWidth: 1,
     marginBottom: "30px"
     },
    aboutStyle: {
@@ -33,7 +31,7 @@ function About() {
             </div>
             <div className="col-md-8 mb-10" style={styles.titleStyle}>
                 <h2>Joyce Young</h2>
-                <hr/>
+                <hr style={{borderColor: "#1D3557"}}/>
                 <h4>Full Stack Web Developer</h4>
             </div>
             <div className="row about-row">

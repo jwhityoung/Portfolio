@@ -34,7 +34,7 @@ function Projects() {
                 </div>
                 <div className="col-md-8 mb-10 pt-4" style={styles.titleStyle}>
                     <h2>Projects</h2>
-                    <hr style={{ color: "#F8F4F1" }} />
+                    <hr style={{borderColor: "#F1FAEE"}} />
                 </div>
             </div>
             <div className="row">
@@ -81,7 +81,7 @@ function Projects() {
                             <h5 className="card-title">Note Taker<span style={{float: "right"}}>
                             <a href="https://github.com/jwhityoung/Note-Taker" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
                             <a href="https://all-the-notes.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true"></i></a></span></h5>
-                            <p className="card-text">Note Taker App</p>
+                            <p className="card-text">Express Backend App</p>
                  
                         </div>
 
@@ -96,7 +96,7 @@ function Projects() {
                             <h5 className="card-title">Budget Tracker<span style={{float: "right"}}>
                             <a href=" https://github.com/jwhityoung/BudgetTracker" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
                             <a href="https://track-that-money.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true"></i></a></span></h5>
-                            <p className="card-text">Cocktail Recipe Search App</p>
+                            <p className="card-text">Progressive Web App</p>
                         
                         </div>
 
@@ -107,7 +107,7 @@ function Projects() {
                             <h5 className="card-title">Employee Management System<span style={{float: "right"}}>
                             <a href="https://github.com/jwhityoung/Employee-Management-System" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
                             <a href="https://drive.google.com/file/d/1H1cb5sc8B8DBpUD27gvBG5K7Ck9Ru7u3/view" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true"></i></a></span></h5>
-                            <p className="card-text">Full-Stack Review Platform</p>
+                            <p className="card-text">Node, Inquirer and MySQl Management System</p>
 
                         </div>
 

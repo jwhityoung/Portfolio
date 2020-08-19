@@ -3,8 +3,6 @@ import React from "react";
 const styles = {
     titleStyle: {
         textAlign: "left",
-        borderBottomColor: '#F8F4F1',
-        borderBottomWidth: 1,
         marginBottom: "30px",
     },
     sectionStyle: {
@@ -29,7 +27,7 @@ function Experience() {
                     </div>
                     <div className="col-md-8 mb-10 pt-4" >
                         <h2>Experience</h2>
-                        <hr />
+                        <hr style={{borderColor: "#1D3557"}}/>
                     </div>
                 </div>
                 <article className="row" style={styles.cardStyle}>
@@ -71,7 +69,7 @@ function Experience() {
                     </div>
                     <div className="col-md-8 mb-10 pt-4" style={styles.titleStyle}>
                         <h2>Education</h2>
-                        <hr />
+                        <hr style={{borderColor: "#1D3557"}}/>
                     </div>
                 </div>
                 <article className="row" style={styles.cardStyle}>
