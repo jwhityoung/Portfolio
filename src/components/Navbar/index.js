@@ -1,5 +1,7 @@
 import React from "react";
-import Logo from "../../assets/jwy.png"
+import Logo from "../../assets/jwy.png";
+import { Link, BrowserRouter } from "react-router-dom";
+import Experience from "../../sections/Experience";
 
 
 const styles = {
@@ -19,22 +21,25 @@ function Navbar() {
   <a className="navbar-brand" href="">
     <img src={Logo}></img>
   </a>
+  <BrowserRouter>
   <div className="collapse navbar-collapse" id="navbarNav">
     <ul className="navbar-nav ml-auto">
       <li className="nav-item">
-        <a className="nav-link" href="#about">About</a>
+        <Link className="nav-link" href="#about">About</Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">Projects</a>
+        <Link className="nav-link" href="#">Projects</Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">Experience</a>
+        <Link className="nav-link" to="/Experience">Experience</Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">Contact</a>
+        <Link className="nav-link" href="#">Contact</Link>
       </li>
     </ul>
+   
   </div>
+  </BrowserRouter>
 </nav>
 
 )

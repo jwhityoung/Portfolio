@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from "../assets/resume.pdf";
 
 
 const styles = {
@@ -47,7 +48,7 @@ function Contact() {
                     </div>
                     <div className="card col-md-2 border-0" style={styles.cardStyle}>
                         <div class="card-body">
-                            <a class="place mb-2" href="#"><i class="fa fa-file fa-2x" aria-hidden="true"></i></a>
+                            <a class="place mb-2" href={Resume} download="Joyce Young Resume"><i class="fa fa-file fa-2x" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </article>

@@ -8,18 +8,20 @@ import Contact from "./sections/Contact";
 import Footer from "./components/Footer";
 
 
+
 function App() {
   return (
     <div className="App">
+   
       <Navbar />
       <About />
       <Projects />
       <Experience />
       <Contact />
       <Footer />
-   
+     
     </div>
-    
+ 
   );
 }
 
