@@ -25,7 +25,7 @@ const styles = {
 
 function About() {
     return (
-        <section style={styles.sectionStyle}>
+        <section id="about" style={styles.sectionStyle}>
             <div className="row title-row">
             <div className="col-md-2">
             </div>
@@ -40,9 +40,9 @@ function About() {
                 <div className="col-md-6" style={styles.aboutStyle}>
                     <h5>About Me</h5>
                 <p>
-                I'm a software developer with a background in SaaS and Cyber Security AI Sales and I specialize in building full-stack web applications primarily with JavaScript, HTML/CSS, and MongoDB or MySQL. I studied at the University of Texas at Austin, where I earned my Full-Stack Web Development certification, and had the opportunity to create multiple projects and collaborate with team mates.</p>
+                I'm a software developer with a background in SaaS and Cyber Security AI Sales and I specialize in building full-stack web applications primarily with JavaScript, HTML/CSS, and MongoDB or MySQL. I studied at the University of Texas at Austin, where I earned my Full-Stack Web Development certificate, and had the opportunity to create multiple projects and collaborate with team mates.</p>
 <p>
-                Since beginning the course, I've worked on personal applications to strengthen my skills as a developer. I'm excited to continue building expertise in several languages and find the right opportunity. When I'm not coding, you can find me tending to my ever-growing plant collection, rock climbing or playing with my sweet Aussie, Ziggy. 
+                Since beginning the course, I've worked on personal applications to strengthen my skills as a developer. I'm excited to continue building expertise in several languages, specifically React and find the right opportunity. When I'm not coding, you can find me tending to my ever-growing plant collection, rock climbing or playing with my sweet Aussie, Ziggy. 
 </p>
 <p>
 I look forward to hearing from you!</p>

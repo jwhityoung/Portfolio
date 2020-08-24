@@ -21,7 +21,7 @@ const styles = {
 function Experience() {
     return (
         <div>
-            <section style={styles.sectionStyle}>
+            <section id="experience" style={styles.sectionStyle}>
                 <div className="row title-row" style={styles.titleStyle}>
                     <div className="col-md-2">
                     </div>

@@ -28,7 +28,7 @@ const styles = {
 
 function Projects() {
     return (
-        <section style={{ backgroundColor: "#1D3557" }}>
+        <section id="projects" style={{ backgroundColor: "#1D3557" }}>
             <div className="row title-row">
                 <div className="col-md-2">
                 </div>

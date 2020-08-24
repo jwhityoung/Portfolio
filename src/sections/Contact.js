@@ -18,7 +18,7 @@ const styles = {
 function Contact() {
     return (
         
-            <section style={{ backgroundColor: "#1D3557" }}>
+            <section id="contact" style={{ backgroundColor: "#1D3557" }}>
                 <div className="row title-row" style={styles.titleStyle}>
                     <div className="col-md-2">
                     </div>

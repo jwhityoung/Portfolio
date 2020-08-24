@@ -25,16 +25,16 @@ function Navbar() {
   <div className="collapse navbar-collapse" id="navbarNav">
     <ul className="navbar-nav ml-auto">
       <li className="nav-item">
-        <Link className="nav-link" href="#about">About</Link>
+        <a className="nav-link" href="#about">About</a>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" href="#">Projects</Link>
+        <a className="nav-link" href="#projects">Projects</a>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" to="/Experience">Experience</Link>
+        <a className="nav-link" href="#experience">Experience</a>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" href="#">Contact</Link>
+        <a className="nav-link" href="#contact">Contact</a>
       </li>
     </ul>
    
