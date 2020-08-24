@@ -7,21 +7,16 @@ import Experience from "./sections/Experience";
 import Contact from "./sections/Contact";
 import Footer from "./components/Footer";
 
-
-
 function App() {
   return (
-    <div className="App">
-   
+    <div className="App" id="app">
       <Navbar />
       <About />
       <Projects />
       <Experience />
       <Contact />
       <Footer />
-     
     </div>
- 
   );
 }
 
