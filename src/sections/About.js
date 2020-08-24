@@ -1,5 +1,5 @@
 import React from "react";
-import MainPhoto from "../assets/IMG_4591.jpeg";
+import MainPhoto from "../assets/joyce.jpeg";
 
 const styles = {
     titleStyle: {
@@ -12,7 +12,7 @@ const styles = {
    imageStyle: {
        height: "200px",
        width: "200x",
-       borderRadius: "90%"
+       borderRadius: "95%"
    },
    sectionStyle: {
     backgroundColor: "#F5F5F5",
