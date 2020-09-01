@@ -38,7 +38,7 @@ function Experience() {
                             <h4 class="place mb-2">Darktrace</h4>
                             <h6 class="role">Account Executive<span style={{float: "right"}}>July 2019 - May 2020</span></h6>
                             <hr />
-                            <p class="description">Outside sales representative covering Texas, Oklahoma, Louisiana, Arkansas with travel greater than 50%. Ran the entire sales cycle from prospecting to closing to customer care-Collaborate with Darktrace’s hardware and software engineers to ensure client’s needs are met.</p>
+                            <p class="description">Outside sales representative covering Texas, Oklahoma, Louisiana, Arkansas with travel greater than 50%. Ran the entire sales cycle from prospecting to closing to customer care. Collaborated with Darktrace’s hardware and software engineers to ensure client’s needs are met.</p>
   
                         </div>
 
@@ -54,7 +54,7 @@ function Experience() {
                             <h6 class="role">Account Executive<span style={{float: "right"}}>July 2017 - July 2019</span></h6>
                            
                             <hr />
-                            <p>Key member of a rapidly growing, lean, partner-centric software company. CareerPlug is a values-driven SaaS company that helps our partners with their recruiting, hiring, and new hire onboarding needs. Work closely with our strategic partners to ensure success and drive adoption, with . I own the onboarding process for CareerPlug’s key industry vertical clientele.</p>
+                            <p>Key member of a rapidly growing, lean, partner-centric software company. CareerPlug is a values-driven SaaS company that helps our partners with their recruiting, hiring, and new hire onboarding needs. Worked closely with strategic partners to ensure success and drive adoption, with. I owned the onboarding process for CareerPlug’s key industry vertical clientele.</p>
   
                         </div>
 

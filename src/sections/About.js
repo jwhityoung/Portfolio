@@ -32,7 +32,7 @@ function About() {
             <div className="col-md-8 mb-10" style={styles.titleStyle}>
                 <h2>Joyce Young</h2>
                 <hr style={{borderColor: "#1D3557"}}/>
-                <h4>Full Stack Web Developer</h4>
+                <h4>Full-Stack Web Developer</h4>
             </div>
             <div className="row about-row">
                 <div className="col-md-2"></div>
