@@ -11,7 +11,7 @@ const styles = {
 function Footer () {
     return (
         <nav className="navbar navbarfooter" style={styles.footerStyle}>
-        <a className="navbar-brand mx-auto" style={styles.footerStyle}>&copy; 2020 Copyright: Joyce Young</a>
+        <a className="navbar-brand mx-auto" style={styles.footerStyle}>&copy; 2020 Copyright: Whitney Young</a>
       </nav>
     )
 }
