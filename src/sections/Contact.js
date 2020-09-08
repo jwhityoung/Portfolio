@@ -33,12 +33,12 @@ function Contact() {
                     </div>
                     <div className="card col-md-2 border-0" style={styles.cardStyle}>
                         <div class="card-body"  >
-                            <a href="https://www.linkedin.com/in/jwhityoung/"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+                            <a href="https://www.linkedin.com/in/jwhityoung/" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div className="card col-md-2 border-0" style={styles.cardStyle}>
                         <div class="card-body"  >
-                            <a href="https://github.com/jwhityoung"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+                            <a href="https://github.com/jwhityoung" target="_blank" rel="noopener noreferrer"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div className="card col-md-2 border-0" style={styles.cardStyle}>

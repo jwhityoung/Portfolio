@@ -43,8 +43,8 @@ function Projects() {
                     <img className="card-img-top" src={Shoppies} alt="Card image cap" style={styles.imgStyle}></img>
                     <div className="card-body">
                         <h5 className="card-title">The Shoppies<span style={{ float: "right" }}>
-                            <a href="https://github.com/jwhityoung/TheShoppies" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
-                            <a href="https://shoppies-nominations.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true"></i></a></span></h5>
+                            <a href="https://github.com/jwhityoung/TheShoppies" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
+                            <a href="https://shoppies-nominations.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
                         <p className="card-text">React Movie Nominations</p>
 
                     </div>
@@ -54,8 +54,8 @@ function Projects() {
                     <img className="card-img-top" src={CovidCorner} alt="Card image cap" style={styles.imgStyle}></img>
                     <div className="card-body">
                         <h5 className="card-title">CovidCorner<span style={{ float: "right" }}>
-                            <a href="https://github.com/Jaesenix/CovidCorner" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
-                            <a href="http://covidcorner.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true"></i></a></span></h5>
+                            <a href="https://github.com/Jaesenix/CovidCorner" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
+                            <a href="http://covidcorner.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
                         <p className="card-text">Full-Stack Application for Covid-19 Awareness</p>
 
                     </div>
@@ -70,8 +70,8 @@ function Projects() {
                     <img className="card-img-top" src={EmployeeDirectory} alt="Card image cap" ></img>
                     <div className="card-body">
                         <h5 className="card-title">Employee Directory<span style={{ float: "right" }}>
-                            <a href="https://github.com/jwhityoung/Employee-Directory" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
-                            <a href=" https://frozen-thicket-63792.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true"></i></a></span></h5>
+                            <a href="https://github.com/jwhityoung/Employee-Directory" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
+                            <a href=" https://frozen-thicket-63792.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
                         <p className="card-text">React Application</p>
 
                     </div>
@@ -81,8 +81,8 @@ function Projects() {
                     <img className="card-img-top" src={CoolPlaces} alt="Card image cap" style={styles.imgStyle}></img>
                     <div className="card-body">
                         <h5 className="card-title">CoolPlaces<span style={{ float: "right" }}>
-                            <a href="https://github.com/nmichel123/Project2" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
-                            <a href="https://floating-beach-29144.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true"></i></a></span></h5>
+                            <a href="https://github.com/nmichel123/Project2" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
+                            <a href="https://floating-beach-29144.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
                         <p className="card-text">Full-Stack Review Platform</p>
 
                     </div>
