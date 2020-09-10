@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Navbar from "./components/Navbar";
 import About from "./sections/About";
-import Projects from "./sections/Projects";
+import Work from "./sections/Work";
 import Experience from "./sections/Experience";
 import Contact from "./sections/Contact";
 import Footer from "./components/Footer";
@@ -12,7 +12,7 @@ function App() {
     <div className="App" id="app">
       <Navbar />
       <About />
-      <Projects />
+      <Work />
       <Experience />
       <Contact />
       <Footer />
