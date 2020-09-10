@@ -52,11 +52,11 @@ class Work extends React.Component {
                     <div className="col-md-2">
                     </div>
                     <div className="card col-md-4 border-0" style={styles.cardStyle}>
-                        <img className="card-img-top" src={Shoppies} alt="Card image cap" style={styles.imgStyle}></img>
+                        <img className="card-img-top" src={Shoppies} alt="The Shoppies" style={styles.imgStyle}></img>
                         <div className="card-body">
                             <h5 className="card-title">The Shoppies<span style={{ float: "right" }}>
-                                <a href="https://github.com/jwhityoung/TheShoppies" className="btn"><i className="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
-                                <a href="https://shoppies-nominations.herokuapp.com/" className="btn"><i className="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
+                                <a href="https://github.com/jwhityoung/TheShoppies" className="btn" target="_blank" rel="noopener noreferrer"><i className="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
+                                <a href="https://shoppies-nominations.herokuapp.com/" className="btn" target="_blank" rel="noopener noreferrer"><i className="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
                             <p className="card-text">React Movie Award Nominations</p>
                             <Accordion>
                                 <Accordion.Toggle as={Button} variant="link" eventKey="0" style={{ float: "right" }}>
@@ -73,11 +73,11 @@ class Work extends React.Component {
                         </div>
                     </div>
                     <div className="card col-md-4 border-0" style={styles.cardStyle}>
-                        <img className="card-img-top" src={CovidCorner} alt="Card image cap" style={styles.imgStyle}></img>
+                        <img className="card-img-top" src={CovidCorner} alt="CovidCorner" style={styles.imgStyle}></img>
                         <div className="card-body">
                             <h5 className="card-title">CovidCorner<span style={{ float: "right" }}>
-                                <a href="https://github.com/Jaesenix/CovidCorner" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
-                                <a href="http://covidcorner.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
+                                <a href="https://github.com/Jaesenix/CovidCorner" className="btn" target="_blank" rel="noopener noreferrer"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
+                                <a href="http://covidcorner.herokuapp.com/" className="btn" target="_blank" rel="noopener noreferrer"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
                             <p className="card-text">Full-Stack Application for Covid-19</p>
                             <Accordion>
                                 <Accordion.Toggle as={Button} variant="link" eventKey="1" style={{ float: "right" }}>
@@ -102,11 +102,11 @@ class Work extends React.Component {
                     <div className="col-md-2">
                     </div>
                     <div className="card col-md-4 border-0" style={styles.cardStyle}>
-                        <img className="card-img-top" src={EmployeeDirectory} alt="Card image cap" style={styles.imgStyle}></img>
+                        <img className="card-img-top" src={EmployeeDirectory} alt="Employee Directory" style={styles.imgStyle}></img>
                         <div className="card-body">
                             <h5 className="card-title">Employee Directory<span style={{ float: "right" }}>
-                                <a href="https://github.com/jwhityoung/Employee-Directory" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
-                                <a href=" https://frozen-thicket-63792.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
+                                <a href="https://github.com/jwhityoung/Employee-Directory" className="btn" target="_blank" rel="noopener noreferrer"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
+                                <a href=" https://frozen-thicket-63792.herokuapp.com/" className="btn" target="_blank" rel="noopener noreferrer"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
                             <p className="card-text">React Application</p>
                             <Accordion>
                                 <Accordion.Toggle as={Button} variant="link" eventKey="2" style={{ float: "right" }}>
@@ -124,11 +124,11 @@ class Work extends React.Component {
                         </div>
                     </div>
                     <div className="card col-md-4 border-0" style={styles.cardStyle}>
-                        <img className="card-img-top" src={CoolPlaces} alt="Card image cap" style={styles.imgStyle}></img>
+                        <img className="card-img-top" src={CoolPlaces} alt="CoolPlaces" style={styles.imgStyle}></img>
                         <div className="card-body">
                             <h5 className="card-title">CoolPlaces<span style={{ float: "right" }}>
-                                <a href="https://github.com/nmichel123/Project2" className="btn"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
-                                <a href="https://floating-beach-29144.herokuapp.com/" className="btn"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
+                                <a href="https://github.com/nmichel123/Project2" className="btn" target="_blank" rel="noopener noreferrer"><i class="fa fa-github fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a>
+                                <a href="https://floating-beach-29144.herokuapp.com/" className="btn" target="_blank" rel="noopener noreferrer"><i class="fa fa-rocket fa-lg" aria-hidden="true" target="_blank" rel="noopener noreferrer"></i></a></span></h5>
                             <p className="card-text">Full-Stack Review Platform</p>
                             <Accordion>
                                 <Accordion.Toggle as={Button} variant="link" eventKey="3" style={{ float: "right" }}>
